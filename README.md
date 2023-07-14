@@ -29,9 +29,9 @@ add the lines below on config app.php
     'DNS1D' => Milon\Barcode\Facades\DNS1DFacade::class,
     'DNS2D' => Milon\Barcode\Facades\DNS2DFacade::class,
 ]
+then run
 php artisan vendor:publish
-5. Configure the environment variables:
-6. 
+4. Configure the environment variables:
  - Copy the `.env.example` file to `.env`:
  - Set up the database connection in the `.env` file.
 
