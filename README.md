@@ -1,4 +1,4 @@
-# Laravel Product Management
+# Laravel Product List
 
 This project is a Laravel application for managing products. It provides functionality to add new products with title, price, and automatically generated barcode and QR code.
 
